@@ -1,0 +1,7 @@
+C:\Users\Keenan\source\repos\TwentyOne\TAMethodDrill\TAMethodDrill\bin\Debug\TAMethodDrill.exe.config
+C:\Users\Keenan\source\repos\TwentyOne\TAMethodDrill\TAMethodDrill\bin\Debug\TAMethodDrill.exe
+C:\Users\Keenan\source\repos\TwentyOne\TAMethodDrill\TAMethodDrill\bin\Debug\TAMethodDrill.pdb
+C:\Users\Keenan\source\repos\TwentyOne\TAMethodDrill\TAMethodDrill\obj\Debug\TAMethodDrill.csprojAssemblyReference.cache
+C:\Users\Keenan\source\repos\TwentyOne\TAMethodDrill\TAMethodDrill\obj\Debug\TAMethodDrill.csproj.CoreCompileInputs.cache
+C:\Users\Keenan\source\repos\TwentyOne\TAMethodDrill\TAMethodDrill\obj\Debug\TAMethodDrill.exe
+C:\Users\Keenan\source\repos\TwentyOne\TAMethodDrill\TAMethodDrill\obj\Debug\TAMethodDrill.pdb
